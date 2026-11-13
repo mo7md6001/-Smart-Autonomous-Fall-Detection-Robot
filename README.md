@@ -26,4 +26,3 @@ An AI-powered autonomous mobile robot designed to monitor elderly individuals at
 - Laila esmat mansor | Team Member | esmatlaila8-tech
 - Shahd Hassan Ismail | Team Member | shahdhassan-ai
 - Shorouk Ahmed Anis | Team Member | shoroukahmed447-star
-- 
