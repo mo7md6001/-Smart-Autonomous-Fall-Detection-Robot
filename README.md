@@ -19,6 +19,8 @@ An AI-powered autonomous mobile robot designed to monitor elderly individuals at
 - | Name | Role | GitHub Username
 - Mohamed Elsayed Fayek | Team Leader | mo7md6001
 - Mohamed wael Hefilah | Team Member | mohamedwaeel1010-cell
+- Mohamed Hamdy El Shabasy | Team Member | medohamdy520-dev
+- Mohamed AbdElgaleel Mohamed Nagy | Team Member | mnagy8203
 - Shrouk Elsherbiny Ibrahim | Team Member | shroukElsherbiny-coder
 - Laila esmat mansor | Team Member | esmatlaila8-tech
 - 
