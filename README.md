@@ -21,6 +21,9 @@ An AI-powered autonomous mobile robot designed to monitor elderly individuals at
 - Mohamed wael Hefilah | Team Member | mohamedwaeel1010-cell
 - Mohamed Hamdy El Shabasy | Team Member | medohamdy520-dev
 - Mohamed AbdElgaleel Mohamed Nagy | Team Member | mnagy8203
+- Omar Abdelhamid Abdelhamid | Team Member | i-omar1
 - Shrouk Elsherbiny Ibrahim | Team Member | shroukElsherbiny-coder
 - Laila esmat mansor | Team Member | esmatlaila8-tech
+- Shahd Hassan Ismail | Team Member | shahdhassan-ai
+- Shorouk Ahmed Anis | Team Member | shoroukahmed447-star!
 - 
