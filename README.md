@@ -16,6 +16,6 @@ An AI-powered autonomous mobile robot designed to monitor elderly individuals at
 - **Robotics & Hardware:** ROS (Robot Operating System), Raspberry Pi / Arduino, Ultrasonic/LiDAR Sensors, Camera Module, Buzzer
 
 ## 👨‍💻 Team Members
-| Name | Role | GitHub Username
-Mohamed Elsayed Fayek | Team Leader | mo7md600
-Mohamed wael Hefilah | Team Member | mohamedwaeel1010-cell
+- | Name | Role | GitHub Username
+- Mohamed Elsayed Fayek | Team Leader | mo7md600
+- Mohamed wael Hefilah | Team Member | mohamedwaeel1010-cell
